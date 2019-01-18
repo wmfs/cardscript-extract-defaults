@@ -10,7 +10,7 @@ $ npm install cardscript-extract-defaults --save
 ## <a name="usage"></a>Usage
 
 ```javascript
-const extractDefaults = require('cardscript-extract-defaults')
+const extractDefaults = require('@wmfs/cardscript-extract-defaults')
 
 const defaultValues = extractDefaults(
     {

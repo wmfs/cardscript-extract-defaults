@@ -4,7 +4,7 @@
 const extractDefaults = require('./../lib/')
 const chai = require('chai')
 const expect = chai.expect
-const { simple, complex, kitchenSink, cardList } = require('cardscript-examples')
+const { simple, complex, kitchenSink, cardList } = require('@wmfs/cardscript-examples')
 
 describe('Run some Cardscript default-extracting tests', function () {
   it('should extract no defaults from some simple example', function () {
