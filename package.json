@@ -3,6 +3,10 @@
   "description": "Extracts sensible defaults from some Cardscript.",
   "version": "0.0.6",
   "author": "Tim Needham",
+  "keywords": [
+    "tymly",
+    "cardscript"
+  ],
   "main": "./lib/index.js",
   "devDependencies": {
     "chai": "4.1.2",
