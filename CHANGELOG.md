@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.0.0...v1.1.0) (2019-01-25)
+
+
+### ✨ Features
+
+* More ignoring of package-lock.json. ([52772f8](https://github.com/wmfs/cardscript-extract-defaults/commit/52772f8))
+
+
+### 📚 Documentation
+
+* update readme with badges ([2df3e51](https://github.com/wmfs/cardscript-extract-defaults/commit/2df3e51))
+
 # 1.0.0 (2019-01-18)
 
 
