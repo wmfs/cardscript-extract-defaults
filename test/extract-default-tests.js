@@ -53,7 +53,18 @@ describe('Run some Cardscript default-extracting tests', function () {
         text: '',
         textEditor: 'editor: true',
         inputAddressSearchResults: [],
-        inputSignatureOpenModal: false
+        inputSignatureOpenModal: false,
+        inputApiLookup: {
+          loading: false,
+          params: {
+            searchQuery: '',
+            sortBy: 'MOST_RECENT'
+          },
+          results: [],
+          summary: {
+            totalHits: 0
+          }
+        }
       },
       cardLists: {
         cardList: {
