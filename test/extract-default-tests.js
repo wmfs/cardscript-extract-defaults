@@ -61,6 +61,10 @@ describe('Run some Cardscript default-extracting tests', function () {
             sortBy: 'MOST_RECENT'
           },
           results: [],
+          pagination: {
+            page: 1,
+            totalPages: 0
+          },
           summary: {
             totalHits: 0
           }
