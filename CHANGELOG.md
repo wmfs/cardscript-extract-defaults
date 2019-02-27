@@ -1,3 +1,25 @@
+## [1.1.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.1.0...v1.1.1) (2019-02-27)
+
+
+### 🐛 Bug Fixes
+
+* tests ([816b949](https://github.com/wmfs/cardscript-extract-defaults/commit/816b949))
+
+
+### 🛠 Builds
+
+* update dev deps ([eb0450b](https://github.com/wmfs/cardscript-extract-defaults/commit/eb0450b))
+
+
+### 📦 Code Refactoring
+
+* progress on input.apilookup ([15180f5](https://github.com/wmfs/cardscript-extract-defaults/commit/15180f5))
+* reduce code ([80e6989](https://github.com/wmfs/cardscript-extract-defaults/commit/80e6989))
+* simplifying code ([f9c2097](https://github.com/wmfs/cardscript-extract-defaults/commit/f9c2097))
+* simplifying code ([bf346ed](https://github.com/wmfs/cardscript-extract-defaults/commit/bf346ed))
+* start of refactoring for input.apilookup but needs more refactoring! ([a6ee0c5](https://github.com/wmfs/cardscript-extract-defaults/commit/a6ee0c5))
+* WIP adjusted cardscript table to allow opening modal ([7057a24](https://github.com/wmfs/cardscript-extract-defaults/commit/7057a24))
+
 # [1.1.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.0.0...v1.1.0) (2019-01-25)
 
 
