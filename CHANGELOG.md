@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.1.1...v1.2.0) (2019-02-28)
+
+
+### ✨ Features
+
+* allow optional limit ([4dd13d4](https://github.com/wmfs/cardscript-extract-defaults/commit/4dd13d4))
+* progress on apilookup ([2475d29](https://github.com/wmfs/cardscript-extract-defaults/commit/2475d29))
+
 ## [1.1.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.1.0...v1.1.1) (2019-02-27)
 
 
