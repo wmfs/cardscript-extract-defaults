@@ -63,7 +63,9 @@ describe('Run some Cardscript default-extracting tests', function () {
           results: [],
           pagination: {
             page: 1,
-            totalPages: 0
+            totalPages: 0,
+            limit: 10,
+            offset: 0
           },
           summary: {
             totalHits: 0
