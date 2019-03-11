@@ -12,7 +12,7 @@ describe('Run some Cardscript default-extracting tests', function () {
     expect(result).to.eql(
       {
         rootView: {
-          name: ''
+          name: null
         },
         cardLists: {}
       }
@@ -23,19 +23,24 @@ describe('Run some Cardscript default-extracting tests', function () {
     const result = extractDefaults(complex)
     expect(result).to.eql(
       {
+        cardLists: {},
         rootView: {
           base: 'TOMATO',
-          size: 'M',
-          hot: false,
           deliveryOrCollection: 'COLLECT',
-          sprinkles: false,
           dietaryReq: [],
-          toppings: [],
-          dietaryReqOther: '',
-          firstName: '',
-          lastName: ''
-        },
-        cardLists: {}
+          dietaryReqOther: null,
+          firstName: null,
+          hot: false,
+          howHot: null,
+          lastName: null,
+          phoneNumber: null,
+          primaryFlavour: null,
+          savouryOrSweet: null,
+          secondaryFlavour: null,
+          size: 'M',
+          sprinkles: false,
+          toppings: []
+        }
       }
     )
   })
@@ -47,17 +52,23 @@ describe('Run some Cardscript default-extracting tests', function () {
         cardList: [],
         toggle: false,
         choice: 'CHOICE_1',
-        choiceMulti: [ 'CHOICE_1', 'CHOICE_2' ],
+        choiceMulti: ['CHOICE_1', 'CHOICE_2'],
         choiceWithTitle: 'CHOICE_1',
+        date: null,
+        email: null,
         slider: 3,
-        text: '',
+        text: null,
+        time: null,
         textEditor: 'editor: true',
         inputAddressSearchResults: [],
         inputSignatureOpenModal: false,
+        inputTelephoneNumber: null,
+        name: null,
+        number: null,
         inputApiLookup: {
           loading: false,
           params: {
-            searchQuery: '',
+            searchQuery: null,
             sortBy: 'MOST_RECENT'
           },
           results: [],
@@ -89,14 +100,17 @@ describe('Run some Cardscript default-extracting tests', function () {
       },
       cardLists: {
         starters: {
-          starterQuantity: 2
+          starterQuantity: 2,
+          starterType: null
         },
         pizzas: {
           pizzaQuantity: 1,
-          dips: []
+          dips: [],
+          pizzaType: null
         },
         dips: {
-          dipQuantity: 3
+          dipQuantity: 3,
+          dipType: null
         }
       }
     })
