@@ -1,3 +1,13 @@
+# [1.3.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.2.0...v1.3.0) (2019-03-11)
+
+
+### ✨ Features
+
+* Add additional text-based elements. ([0c24a80](https://github.com/wmfs/cardscript-extract-defaults/commit/0c24a80))
+* Fix editor bug and tests. ([126b4f0](https://github.com/wmfs/cardscript-extract-defaults/commit/126b4f0))
+* Fix issue not passing default value through. ([a3a0715](https://github.com/wmfs/cardscript-extract-defaults/commit/a3a0715))
+* Tweak for text editors. ([0fe7680](https://github.com/wmfs/cardscript-extract-defaults/commit/0fe7680))
+
 # [1.2.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.1.1...v1.2.0) (2019-02-28)
 
 
