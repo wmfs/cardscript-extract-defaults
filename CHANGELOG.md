@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.4.0...v1.5.0) (2019-03-26)
+
+
+### ✨ Features
+
+* allow multi select api lookup ([091a6d6](https://github.com/wmfs/cardscript-extract-defaults/commit/091a6d6))
+
 # [1.4.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.3.0...v1.4.0) (2019-03-26)
 
 
