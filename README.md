@@ -1,7 +1,7 @@
 # cardscript-extract-defaults
 
 [![Tymly Cardscript](https://img.shields.io/badge/tymly-cardscript-blue.svg)](https://tymly.io/)
-[![Build Status](https://travis-ci.com/wmfs/cardscript-extract-defaults.svg?branch=master)](https://travis-ci.com/wmfs/cardscript-extract-defaults)
+[![CircleCI](https://circleci.com/gh/wmfs/cardscript-extract-defaults.svg?style=svg)](https://circleci.com/gh/wmfs/cardscript-extract-defaults)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/cardscript-extract-defaults.svg)](https://www.npmjs.com/package/@wmfs/cardscript-extract-defaults) 
 [![codecov](https://codecov.io/gh/wmfs/cardscript-extract-defaults/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/cardscript-extract-defaults) 
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/cardscript-extract-defaults/badge)](https://www.codefactor.io/repository/github/wmfs/cardscript-extract-defaults) 
