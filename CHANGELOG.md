@@ -1,3 +1,41 @@
+# [1.6.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.5.0...v1.6.0) (2019-07-18)
+
+
+### ✨ Features
+
+* extract table selection id ([48a483f](https://github.com/wmfs/cardscript-extract-defaults/commit/48a483f))
+* extract TabSet value ([d16b934](https://github.com/wmfs/cardscript-extract-defaults/commit/d16b934))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([2b359e1](https://github.com/wmfs/cardscript-extract-defaults/commit/2b359e1))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([63d3b6e](https://github.com/wmfs/cardscript-extract-defaults/commit/63d3b6e))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/cardscript-examples requirement ([ef3659f](https://github.com/wmfs/cardscript-extract-defaults/commit/ef3659f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/cardscript-examples requirement to 1.9.0 ([99ae9b0](https://github.com/wmfs/cardscript-extract-defaults/commit/99ae9b0))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([e0b4c2f](https://github.com/wmfs/cardscript-extract-defaults/commit/e0b4c2f))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([8059e41](https://github.com/wmfs/cardscript-extract-defaults/commit/8059e41))
+* **deps-dev:** update semantic-release requirement ([f2739cc](https://github.com/wmfs/cardscript-extract-defaults/commit/f2739cc))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge to readme ([c1e50fa](https://github.com/wmfs/cardscript-extract-defaults/commit/c1e50fa))
+
+
+### 🚨 Tests
+
+* amend expect for complex example ([0d9473b](https://github.com/wmfs/cardscript-extract-defaults/commit/0d9473b))
+* amend expected tabset id ([a378db2](https://github.com/wmfs/cardscript-extract-defaults/commit/a378db2))
+* fix? ([532f429](https://github.com/wmfs/cardscript-extract-defaults/commit/532f429))
+* update examples and amend test ([89a202b](https://github.com/wmfs/cardscript-extract-defaults/commit/89a202b))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([9bc9073](https://github.com/wmfs/cardscript-extract-defaults/commit/9bc9073))
+* **travis:** Remove Travis config ([94d9619](https://github.com/wmfs/cardscript-extract-defaults/commit/94d9619))
+
 # [1.5.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.4.0...v1.5.0) (2019-03-26)
 
 
