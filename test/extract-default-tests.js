@@ -51,6 +51,7 @@ describe('Run some Cardscript default-extracting tests', function () {
       rootView: {
         cardList: [],
         toggle: false,
+        tabsetTabSet: 'tab-0',
         choice: 'CHOICE_1',
         choiceMulti: ['CHOICE_1', 'CHOICE_2'],
         choiceWithTitle: 'CHOICE_1',
