@@ -59,6 +59,7 @@ describe('Run some Cardscript default-extracting tests', function () {
         email: null,
         slider: 3,
         text: null,
+        textMultiline: 'isMultiline: true',
         time: null,
         textEditor: 'editor: true',
         inputAddressSearchResults: [],
