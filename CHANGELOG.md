@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.6.0...v1.7.0) (2019-07-22)
+
+
+### ✨ Features
+
+* allow for Input.ApiLookup results card ([0a1d5cc](https://github.com/wmfs/cardscript-extract-defaults/commit/0a1d5cc))
+
 # [1.6.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.5.0...v1.6.0) (2019-07-18)
 
 
