@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.7.0...v1.7.1) (2019-07-23)
+
+
+### 🐛 Bug Fixes
+
+* include TabSet and TAbs ([1ab5421](https://github.com/wmfs/cardscript-extract-defaults/commit/1ab5421))
+
 # [1.7.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.6.0...v1.7.0) (2019-07-22)
 
 
