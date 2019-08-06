@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.7.1...v1.8.0) (2019-08-06)
+
+
+### ✨ Features
+
+* allow enter map coords ([2798e3b](https://github.com/wmfs/cardscript-extract-defaults/commit/2798e3b))
+
 ## [1.7.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.7.0...v1.7.1) (2019-07-23)
 
 
