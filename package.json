@@ -8,6 +8,9 @@
     "cardscript"
   ],
   "main": "./lib/index.js",
+  "dependencies": {
+    "marked": "0.7.0"
+  },
   "devDependencies": {
     "chai": "4.2.0",
     "codecov": "3.5.0",
