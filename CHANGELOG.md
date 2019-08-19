@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.8.0...v1.9.0) (2019-08-19)
+
+
+### ✨ Features
+
+* compile textblock markdown ([bfa5515](https://github.com/wmfs/cardscript-extract-defaults/commit/bfa5515))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update semantic-release requirement ([e902d40](https://github.com/wmfs/cardscript-extract-defaults/commit/e902d40))
+
 # [1.8.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.7.1...v1.8.0) (2019-08-06)
 
 
