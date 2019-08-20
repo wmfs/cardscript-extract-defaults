@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.9.0...v1.10.0) (2019-08-20)
+
+
+### ✨ Features
+
+* card list no longer has editable attribute ([4db5a47](https://github.com/wmfs/cardscript-extract-defaults/commit/4db5a47))
+
 # [1.9.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.8.0...v1.9.0) (2019-08-19)
 
 
