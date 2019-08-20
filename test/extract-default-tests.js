@@ -49,6 +49,7 @@ describe('Run some Cardscript default-extracting tests', function () {
     expect(result).to.eql({
       rootView: {
         cardList: [],
+        cardListNonEditable: [],
         toggle: false,
         tabSetTabSet: 'tab-0',
         choice: 'CHOICE_1',
@@ -87,7 +88,8 @@ describe('Run some Cardscript default-extracting tests', function () {
       cardLists: {
         cardList: {
           opinion: 'Amazing!'
-        }
+        },
+        cardListNonEditable: {}
       }
     })
   })
