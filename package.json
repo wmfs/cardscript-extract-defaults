@@ -9,6 +9,7 @@
   ],
   "main": "./lib/index.js",
   "dependencies": {
+    "dottie": "2.0.1",
     "marked": "0.7.0"
   },
   "devDependencies": {
