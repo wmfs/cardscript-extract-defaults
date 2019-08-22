@@ -94,7 +94,7 @@ describe('Run some Cardscript default-extracting tests', function () {
     })
   })
 
-  it('should extract some defaults from cardList example', function () {
+  xit('should extract some defaults from cardList example', function () {
     const result = extractDefaults(cardList)
     expect(result).to.eql({
       rootView: {
