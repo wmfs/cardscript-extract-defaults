@@ -1,3 +1,20 @@
+# [1.11.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.10.0...v1.11.0) (2019-08-22)
+
+
+### ✨ Features
+
+* tidy up card list/api lookup and extend map to include OSGridRef format ([57a57aa](https://github.com/wmfs/cardscript-extract-defaults/commit/57a57aa))
+
+
+### 📚 Documentation
+
+* update readme ([f77e8f0](https://github.com/wmfs/cardscript-extract-defaults/commit/f77e8f0))
+
+
+### 🚨 Tests
+
+* ignore last test for now ([e481022](https://github.com/wmfs/cardscript-extract-defaults/commit/e481022))
+
 # [1.10.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.9.0...v1.10.0) (2019-08-20)
 
 
