@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.12.0...v1.13.0) (2019-11-14)
+
+
+### ✨ Features
+
+* extract defaults for tree ([](https://github.com/wmfs/cardscript-extract-defaults/commit/84754f1))
+
 # [1.12.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.11.0...v1.12.0) (2019-10-10)
 
 
