@@ -1,6 +1,5 @@
 /* eslint-env mocha */
 
-'use strict'
 const extractDefaults = require('./../lib/')
 const chai = require('chai')
 const expect = chai.expect
@@ -65,6 +64,7 @@ describe('Run some Cardscript default-extracting tests', function () {
         inputAddressSearchResults: [],
         inputSignatureOpenModal: false,
         inputTelephoneNumber: null,
+        markdownTextBlockCompiledMarkdown: '<h1 id=\"markdown\">Markdown</h1>\n<blockquote>\n<p>This is some markdown text</p>\n</blockquote>\n<h2 id=\"heading\">Heading</h2>\n<p>Some text here...</p>\n<ul>\n<li>one</li>\n<li>two</li>\n<li>three</li>\n</ul>\n',
         name: null,
         number: null,
         inputApiLookup: {
@@ -94,7 +94,7 @@ describe('Run some Cardscript default-extracting tests', function () {
     })
   })
 
-  xit('should extract some defaults from cardList example', function () {
+  it('should extract some defaults from cardList example', function () {
     const result = extractDefaults(cardList)
     expect(result).to.eql({
       rootView: {
@@ -104,16 +104,16 @@ describe('Run some Cardscript default-extracting tests', function () {
       cardLists: {
         starters: {
           starterQuantity: 2,
-          starterType: null
+          starterType: 'WEDGES'
         },
         pizzas: {
           pizzaQuantity: 1,
           dips: [],
-          pizzaType: null
+          pizzaType: 'HAWAIIAN'
         },
         dips: {
           dipQuantity: 3,
-          dipType: null
+          dipType: 'BBQ'
         }
       }
     })
