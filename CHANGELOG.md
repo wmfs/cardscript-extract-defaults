@@ -1,3 +1,25 @@
+## [1.13.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.13.0...v1.13.1) (2019-12-16)
+
+
+### 🐛 Bug Fixes
+
+* don't push CardList to root view ([](https://github.com/wmfs/cardscript-extract-defaults/commit/db5fbc9))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/cardscript-examples requirement ([](https://github.com/wmfs/cardscript-extract-defaults/commit/00d9948))
+
+
+### 🚨 Tests
+
+* ignore test ([](https://github.com/wmfs/cardscript-extract-defaults/commit/1c49255))
+
+
+### 💎 Styles
+
+* standard fix ([](https://github.com/wmfs/cardscript-extract-defaults/commit/a2d8741))
+
 # [1.13.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.12.0...v1.13.0) (2019-11-14)
 
 
