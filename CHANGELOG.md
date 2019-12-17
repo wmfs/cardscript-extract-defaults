@@ -1,3 +1,10 @@
+## [1.13.2](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.13.1...v1.13.2) (2019-12-17)
+
+
+### 🐛 Bug Fixes
+
+* Table single select now takes an array ([](https://github.com/wmfs/cardscript-extract-defaults/commit/2c8aae4))
+
 ## [1.13.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.13.0...v1.13.1) (2019-12-16)
 
 
