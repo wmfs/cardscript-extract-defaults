@@ -1,3 +1,14 @@
+# [1.14.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.13.2...v1.14.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** update dependencies ([648ae4b](https://github.com/wmfs/cardscript-extract-defaults/commit/648ae4bfa9c92070d08ff6548d3b65b753513a7f))
+* **deps-dev:** bump mocha from 6.2.0 to 6.2.2 ([84d87c5](https://github.com/wmfs/cardscript-extract-defaults/commit/84d87c55ce3e64599b023350d2d8aef6125807f5))
+* **deps-dev:** bump packages ([fd25154](https://github.com/wmfs/cardscript-extract-defaults/commit/fd2515473383105d1e19912bb7a7f7a44515395f))
+* **deps-dev:** bump packages ([e00e9da](https://github.com/wmfs/cardscript-extract-defaults/commit/e00e9da2be6395e46c424e07201cc285046e7092))
+* **deps-dev:** bump semantic-release from 15.13.24 to 15.14.0 ([3da300a](https://github.com/wmfs/cardscript-extract-defaults/commit/3da300ade9aa14eb1f1f4b3075744fdbaee7a04f))
+
 ## [1.13.2](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.13.1...v1.13.2) (2019-12-17)
 
 
