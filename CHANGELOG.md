@@ -1,3 +1,15 @@
+# [1.15.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.14.0...v1.15.0) (2020-01-20)
+
+
+### ✨ Features
+
+* Tree single and multi selection ([a2aeb3c](https://github.com/wmfs/cardscript-extract-defaults/commit/a2aeb3c6e01fe85f18408a40635be6c90d76e9d5))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([0cfe1d0](https://github.com/wmfs/cardscript-extract-defaults/commit/0cfe1d05590a9f7d4eb8fa41d8835c614ab30707))
+
 # [1.14.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.13.2...v1.14.0) (2020-01-07)
 
 
