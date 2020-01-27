@@ -23,7 +23,7 @@
     "standard": "14.3.1",
     "@semantic-release/changelog": "5.0.0",
     "@semantic-release/git": "7.0.18",
-    "@wmfs/cardscript-examples": "1.11.0"
+    "@wmfs/cardscript-examples": "1.18.0"
   },
   "scripts": {
     "lint": "standard",
