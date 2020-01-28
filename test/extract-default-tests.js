@@ -57,6 +57,8 @@ describe('Run some Cardscript default-extracting tests', function () {
         date: null,
         email: null,
         slider: 3,
+        tableWithMultiSelectionSelected: [],
+        tableWithSingleSelectionSelected: [],
         text: null,
         textMultiline: 'isMultiline: true',
         time: null,
@@ -64,9 +66,12 @@ describe('Run some Cardscript default-extracting tests', function () {
         inputAddressSearchResults: [],
         inputSignatureOpenModal: false,
         inputTelephoneNumber: null,
-        markdownTextBlockCompiledMarkdown: '<h1 id="markdown">Markdown</h1>\n<blockquote>\n<p>This is some markdown text</p>\n</blockquote>\n<h2 id="heading">Heading</h2>\n<p>Some text here...</p>\n<ul>\n<li>one</li>\n<li>two</li>\n<li>three</li>\n</ul>\n',
+        listMultiSelection: [],
+        listSingleSelection: {},
+        markdownTextBlockCompiledMarkdown: '<h2 id="markdown">Markdown</h2>\n<blockquote>\n<p>This is some markdown text</p>\n</blockquote>\n<h2 id="heading">Heading</h2>\n<p>Some text here...</p>\n<ul>\n<li>one</li>\n<li>two</li>\n<li>three</li>\n</ul>\n',
         name: null,
         number: null,
+        numberWithMinMax: null,
         inputApiLookup: {
           loading: false,
           params: {
@@ -83,7 +88,100 @@ describe('Run some Cardscript default-extracting tests', function () {
           summary: {
             totalHits: 0
           }
-        }
+        },
+        treeMulti: [
+          {
+            children: [
+              {
+                label: 'Car',
+                value: 'CAR'
+              },
+              {
+                label: 'Train',
+                value: 'TRAIN'
+              },
+              {
+                label: 'Bus',
+                value: 'BUS'
+              }
+            ],
+            label: 'Vehicle'
+          },
+          {
+            children: [
+              {
+                label: 'House',
+                value: 'HOUSE'
+              },
+              {
+                label: 'Flat',
+                value: 'FLAT'
+              }
+            ],
+            label: 'Building'
+          }
+        ],
+        treeMultiSelected: [],
+        treeSimple: [
+          {
+            children: [
+              {
+                label: 'Car'
+              },
+              {
+                label: 'Train'
+              },
+              {
+                label: 'Bus'
+              }
+            ],
+            label: 'Vehicle'
+          },
+          {
+            children: [
+              {
+                label: 'House'
+              },
+              {
+                label: 'Flat'
+              }
+            ],
+            label: 'Building'
+          }
+        ],
+        treeSingle: [
+          {
+            children: [
+              {
+                label: 'Car',
+                value: 'CAR'
+              },
+              {
+                label: 'Train',
+                value: 'TRAIN'
+              },
+              {
+                label: 'Bus',
+                value: 'BUS'
+              }
+            ],
+            label: 'Vehicle'
+          },
+          {
+            children: [
+              {
+                label: 'House',
+                value: 'HOUSE'
+              },
+              {
+                label: 'Flat',
+                value: 'FLAT'
+              }
+            ],
+            label: 'Building'
+          }
+        ],
+        treeSingleSelected: {}
       },
       cardLists: {
         cardList: {
