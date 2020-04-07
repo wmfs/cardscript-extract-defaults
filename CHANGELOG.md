@@ -1,3 +1,45 @@
+# [1.16.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.15.0...v1.16.0) (2020-04-07)
+
+
+### 🛠 Builds
+
+* **deps:** bump marked from 0.8.0 to 0.8.2 ([f0b4da8](https://github.com/wmfs/cardscript-extract-defaults/commit/f0b4da89f054a54c62806bedb91a0d4ced4f589e))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([6693f4f](https://github.com/wmfs/cardscript-extract-defaults/commit/6693f4f2f4e50e05e5088eeece02e333ec23d3d1))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([bb64052](https://github.com/wmfs/cardscript-extract-defaults/commit/bb6405298d0e102ee5c6217da07db9a2ba30f63b))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([91af77e](https://github.com/wmfs/cardscript-extract-defaults/commit/91af77e32f06a5f28a726da73b7560a91870d307))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/cardscript-examples from 1.11.0 to 1.18.0 ([2ea93cf](https://github.com/wmfs/cardscript-extract-defaults/commit/2ea93cfd62e219220d9556e06a04338d306e8555))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([c855519](https://github.com/wmfs/cardscript-extract-defaults/commit/c855519f9c89486601f26b2f02735a92115a4a53))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([f1ad437](https://github.com/wmfs/cardscript-extract-defaults/commit/f1ad437c83bb02a1d507784b0f826fb860ba5f02))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([3c82868](https://github.com/wmfs/cardscript-extract-defaults/commit/3c82868ab360812ca22ad9c7dce2dd8940e10977))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([2d34fe9](https://github.com/wmfs/cardscript-extract-defaults/commit/2d34fe99460d65ca161aee04c45987d7d324c7ec))
+* **deps-dev:** bump conventional-changelog-metahub from 4.0.0 to 4.0.1 ([40bbf3f](https://github.com/wmfs/cardscript-extract-defaults/commit/40bbf3f5b47a51e51a1a1f6b973a4f2391bcd1d6))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([f6d97b7](https://github.com/wmfs/cardscript-extract-defaults/commit/f6d97b7ff9e11ef8cbc1702cab36e2ffea25d954))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([b445431](https://github.com/wmfs/cardscript-extract-defaults/commit/b445431245ed93dba55f6fedf20cffec52a332a3))
+* **deps-dev:** bump mocha from 7.0.1 to 7.1.0 ([d19089e](https://github.com/wmfs/cardscript-extract-defaults/commit/d19089e22051282f21c619257fa2c1aaa35794c1))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([62b1dd5](https://github.com/wmfs/cardscript-extract-defaults/commit/62b1dd53f0a9304f7ff8ef1feb69b1cc48d802cf))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([73e3aaa](https://github.com/wmfs/cardscript-extract-defaults/commit/73e3aaa4270bf2349683b04081fdf949f1562bf5))
+* **deps-dev:** bump semantic-release from 15.14.0 to 17.0.2 ([28c29f4](https://github.com/wmfs/cardscript-extract-defaults/commit/28c29f4a330ffb6effa45143e34541161d9290e5))
+* **deps-dev:** bump semantic-release from 17.0.2 to 17.0.3 ([4c92e43](https://github.com/wmfs/cardscript-extract-defaults/commit/4c92e43367fc87b7436c3799659c28b48f23abf2))
+* **deps-dev:** bump semantic-release from 17.0.3 to 17.0.4 ([5aa7281](https://github.com/wmfs/cardscript-extract-defaults/commit/5aa72810c38ae4b9d19ab268b8fd889cc73dc3de))
+* **deps-dev:** bump standard from 14.3.1 to 14.3.2 ([dabcb0c](https://github.com/wmfs/cardscript-extract-defaults/commit/dabcb0ccba5112940995eaecbbef2b2be96aed0f))
+* **deps-dev:** bump standard from 14.3.2 to 14.3.3 ([8aefc70](https://github.com/wmfs/cardscript-extract-defaults/commit/8aefc70de9a76ab08d1a0177582776582d6bf4e4))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([66d9212](https://github.com/wmfs/cardscript-extract-defaults/commit/66d92123982ae4bddcddbe0147c829ade2a0f440))
+
+
+### 🚨 Tests
+
+* update tests for kitchen sink cardscript example ([f59a8e7](https://github.com/wmfs/cardscript-extract-defaults/commit/f59a8e74c20a5a1f2160d00d118fc9e8c06829bb))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([7ed0719](https://github.com/wmfs/cardscript-extract-defaults/commit/7ed07194b44a8b8551d1cd84eedaf198b4292e59))
+
+
+### 💎 Styles
+
+* Unexpected lexical declaration in case block. ([789642a](https://github.com/wmfs/cardscript-extract-defaults/commit/789642a4fbc413c621b0fbe3c67452764fc8e56c))
+
 # [1.15.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.14.0...v1.15.0) (2020-01-20)
 
 
