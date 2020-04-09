@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.16.0...v1.17.0) (2020-04-09)
+
+
+### ✨ Features
+
+* support for $TODAY ([65e2d61](https://github.com/wmfs/cardscript-extract-defaults/commit/65e2d611b18d821e76696d3d223e520e198a2ed9))
+
 # [1.16.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.15.0...v1.16.0) (2020-04-07)
 
 
