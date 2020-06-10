@@ -6,8 +6,8 @@ const expect = chai.expect
 const { simple, complex, kitchenSink, cardList } = require('@wmfs/cardscript-examples')
 
 describe('Run some Cardscript default-extracting tests', function () {
-  it('should extract no defaults from some simple example', function () {
-    const result = extractDefaults(simple)
+  it('should extract no defaults from some simple example', async function () {
+    const result = await extractDefaults(simple)
     expect(result).to.eql(
       {
         rootView: {
@@ -18,8 +18,8 @@ describe('Run some Cardscript default-extracting tests', function () {
     )
   })
 
-  it('should extract some defaults from complex example', function () {
-    const result = extractDefaults(complex)
+  it('should extract some defaults from complex example', async function () {
+    const result = await extractDefaults(complex)
     expect(result).to.eql(
       {
         cardLists: {},
@@ -43,8 +43,8 @@ describe('Run some Cardscript default-extracting tests', function () {
     )
   })
 
-  it('should extract some defaults from kitchen sink example', function () {
-    const result = extractDefaults(kitchenSink)
+  it('should extract some defaults from kitchen sink example', async function () {
+    const result = await extractDefaults(kitchenSink)
     expect(result).to.eql({
       rootView: {
         cardList: [],
@@ -192,8 +192,8 @@ describe('Run some Cardscript default-extracting tests', function () {
     })
   })
 
-  xit('should extract some defaults from cardList example', function () {
-    const result = extractDefaults(cardList)
+  xit('should extract some defaults from cardList example', async function () {
+    const result = await extractDefaults(cardList)
     expect(result).to.eql({
       rootView: {
         starters: [],
