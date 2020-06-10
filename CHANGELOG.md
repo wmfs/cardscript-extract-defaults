@@ -1,3 +1,35 @@
+# [1.18.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.17.0...v1.18.0) (2020-06-10)
+
+
+### ✨ Features
+
+* pass geolocation coords on data [ch1083] ([3b72677](https://github.com/wmfs/cardscript-extract-defaults/commit/3b72677f3c4dad2cee42861ff1ffdf9440f5cef8))
+
+
+### 🐛 Bug Fixes
+
+* lat/lng not defined ([dedc20e](https://github.com/wmfs/cardscript-extract-defaults/commit/dedc20eacf7e85938cbd3e5e3335f2035348545c))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/cardscript-examples from 1.18.0 to 1.19.0 ([649e5b2](https://github.com/wmfs/cardscript-extract-defaults/commit/649e5b2c0e7b19ebac7184f0f68a1747cc0facde))
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([3bbf976](https://github.com/wmfs/cardscript-extract-defaults/commit/3bbf976539a0cdbba62ee2a81bd92f4f4def8668))
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([fffd402](https://github.com/wmfs/cardscript-extract-defaults/commit/fffd402f820cb21daf39e73ac9077a52a2f46466))
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([23ab321](https://github.com/wmfs/cardscript-extract-defaults/commit/23ab321c7701b66e8e2205df4f8b7d16b3d67bf9))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([8b8682f](https://github.com/wmfs/cardscript-extract-defaults/commit/8b8682f010a9a0c210d3f8d455009e171c4b8c42))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([9904e62](https://github.com/wmfs/cardscript-extract-defaults/commit/9904e62e19a50880233e349e70641df37b0f77da))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([c32fcfa](https://github.com/wmfs/cardscript-extract-defaults/commit/c32fcfa7cc5b670e23eb2c2c1e7e8fe6d128fd79))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([06b318b](https://github.com/wmfs/cardscript-extract-defaults/commit/06b318bbb740094c912c5437ca20f6f5c32b27e3))
+* **deps-dev:** bump semantic-release from 17.0.6 to 17.0.7 ([461ed7a](https://github.com/wmfs/cardscript-extract-defaults/commit/461ed7a7133c9efacf21303707e3bed40ccedea9))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([1790ecc](https://github.com/wmfs/cardscript-extract-defaults/commit/1790ecc6b484a7ae106379e4e69466bd0dcda0ed))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([648234d](https://github.com/wmfs/cardscript-extract-defaults/commit/648234df316b0730e3992b4800245b028a38dec2))
+
+
+### 🚨 Tests
+
+* function is now asynchronous ([ac9d942](https://github.com/wmfs/cardscript-extract-defaults/commit/ac9d9426fcd12f195ad843eb91109ffd0db97dc7))
+
 # [1.17.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.16.0...v1.17.0) (2020-04-09)
 
 
