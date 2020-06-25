@@ -1,3 +1,15 @@
+## [1.18.2](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.18.1...v1.18.2) (2020-06-25)
+
+
+### 🐛 Bug Fixes
+
+* set geolocation to null if cannot get ([266c98e](https://github.com/wmfs/cardscript-extract-defaults/commit/266c98ec54f1b2f95d421f0fa51bc118ae576147))
+
+
+### 🚨 Tests
+
+* update tests with geolocation ([3fc6167](https://github.com/wmfs/cardscript-extract-defaults/commit/3fc616766547ca3857bf82c02755c53527aad6ac))
+
 ## [1.18.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.18.0...v1.18.1) (2020-06-25)
 
 
