@@ -11,6 +11,7 @@ describe('Run some Cardscript default-extracting tests', function () {
     expect(result).to.eql(
       {
         rootView: {
+          $GEOLOCATION: null,
           name: null
         },
         cardLists: {}
@@ -24,6 +25,7 @@ describe('Run some Cardscript default-extracting tests', function () {
       {
         cardLists: {},
         rootView: {
+          $GEOLOCATION: null,
           base: 'TOMATO',
           deliveryOrCollection: 'COLLECT',
           dietaryReq: [],
@@ -47,6 +49,7 @@ describe('Run some Cardscript default-extracting tests', function () {
     const result = await extractDefaults(kitchenSink)
     expect(result).to.eql({
       rootView: {
+        $GEOLOCATION: null,
         cardList: [],
         cardListNonEditable: [],
         toggle: false,
