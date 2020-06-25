@@ -1,3 +1,16 @@
+## [1.18.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.18.0...v1.18.1) (2020-06-25)
+
+
+### 🐛 Bug Fixes
+
+* try/catch getting location ([8dfada7](https://github.com/wmfs/cardscript-extract-defaults/commit/8dfada782d32d4bdbf62475910fe08b746d98a77))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([6b3b403](https://github.com/wmfs/cardscript-extract-defaults/commit/6b3b4037c8c7395dcc27d6f21af574f0008527bf))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([0516946](https://github.com/wmfs/cardscript-extract-defaults/commit/0516946ec2efbaa0d7c6b045f4a6c38abe1de452))
+
 # [1.18.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.17.0...v1.18.0) (2020-06-10)
 
 
