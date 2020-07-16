@@ -1,3 +1,16 @@
+# [1.19.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.18.2...v1.19.0) (2020-07-16)
+
+
+### 🛠 Builds
+
+* **deps:** bump marked from 0.8.2 to 1.1.1 ([b1c31ac](https://github.com/wmfs/cardscript-extract-defaults/commit/b1c31acdcf9670f25197755d3131edaa2ac5e97e))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([e41633f](https://github.com/wmfs/cardscript-extract-defaults/commit/e41633ff0e534448ea622d83053d2507efc67aad))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** use updated circle node image [skip ci] ([2734143](https://github.com/wmfs/cardscript-extract-defaults/commit/2734143aab5ff8b3c9b09a7f1ecb1d3d39d3ac0d))
+
 ## [1.18.2](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.18.1...v1.18.2) (2020-06-25)
 
 
