@@ -1,3 +1,40 @@
+# [1.20.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.19.0...v1.20.0) (2020-11-12)
+
+
+### 🛠 Builds
+
+* **deps:** bump marked from 1.1.1 to 1.2.3 ([f6a4e7a](https://github.com/wmfs/cardscript-extract-defaults/commit/f6a4e7ab84339f08f25ac475e745074d04d7e588))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/cardscript-examples from 1.19.0 to 1.22.0 ([e0dd73f](https://github.com/wmfs/cardscript-extract-defaults/commit/e0dd73f98c7ec7fa4a5321a73fcd3bc6481f3b9e))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([f8fa954](https://github.com/wmfs/cardscript-extract-defaults/commit/f8fa95460e45b61e035ca58bc52e0b8292fa28f4))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([7777c08](https://github.com/wmfs/cardscript-extract-defaults/commit/7777c087bf58af24223bf3512034f135b05b4d7f))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([4dddd38](https://github.com/wmfs/cardscript-extract-defaults/commit/4dddd38355122be13f52564226a743969c017bd2))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([3ca1f2b](https://github.com/wmfs/cardscript-extract-defaults/commit/3ca1f2b2daad80432b57debbb5823374906d19b8))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([d12c563](https://github.com/wmfs/cardscript-extract-defaults/commit/d12c56396a84486d266a0b1db369feb060907335))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([b024ede](https://github.com/wmfs/cardscript-extract-defaults/commit/b024edeeecca5ce1785facc41f07a0f41af3d8b7))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([407bd6d](https://github.com/wmfs/cardscript-extract-defaults/commit/407bd6dfc9aed0b73b6a12338d79d1542e2ffd2e))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([6e5deb6](https://github.com/wmfs/cardscript-extract-defaults/commit/6e5deb627ee258153e52bd457c0b6b2495bee143))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([9d1477f](https://github.com/wmfs/cardscript-extract-defaults/commit/9d1477fb74de63c9894fa62532564ecedbd2f70d))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([bc54d10](https://github.com/wmfs/cardscript-extract-defaults/commit/bc54d10c7aa9d2535a19da9db2ef819f7d7841d5))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([268d683](https://github.com/wmfs/cardscript-extract-defaults/commit/268d68318ca690ffbae4f375af88cae766d59bb0))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([d3991c2](https://github.com/wmfs/cardscript-extract-defaults/commit/d3991c2860eb4eb82840ba5351494f40311c43f7))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([7f7a3e8](https://github.com/wmfs/cardscript-extract-defaults/commit/7f7a3e8ef90b96ddbe4e5a21961d910df72dd623))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([203c125](https://github.com/wmfs/cardscript-extract-defaults/commit/203c125d76913d00385390d7b8a5eda6a6cb0041))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([813f8c3](https://github.com/wmfs/cardscript-extract-defaults/commit/813f8c3aeecc6dc9a52817181b0f48f1a421d409))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([82d5b82](https://github.com/wmfs/cardscript-extract-defaults/commit/82d5b82190789fc013c5c6a913f22fa45bd3ccef))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([0025a30](https://github.com/wmfs/cardscript-extract-defaults/commit/0025a30c8027dd735656d6528374bfc25af0da20))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([f1e9eb2](https://github.com/wmfs/cardscript-extract-defaults/commit/f1e9eb27bf95e2498dfcfc9200ee6e7684e1e186))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([2b78064](https://github.com/wmfs/cardscript-extract-defaults/commit/2b780642cc4fa242f3f31d7b7dabf9597083013e))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([3607a63](https://github.com/wmfs/cardscript-extract-defaults/commit/3607a636118a00246dfbe175d6a5d0d7442e0936))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([cba777b](https://github.com/wmfs/cardscript-extract-defaults/commit/cba777bb4d6cd348e098396c0c1906124b8d1b4f))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([e597377](https://github.com/wmfs/cardscript-extract-defaults/commit/e597377dc67f033d231245e965d7170395a8888e))
+* **circle:** cache dependencies [ch2770] ([bb5c230](https://github.com/wmfs/cardscript-extract-defaults/commit/bb5c23045902b94d0341845e430dbb91635131bf))
+* **circle:** separate lint job [ch1009] ([5784706](https://github.com/wmfs/cardscript-extract-defaults/commit/5784706fa9ea77c263d29b46d0930358959d9abe))
+* **circle:** update build environment variable context name [ch2771] ([7e0a3c0](https://github.com/wmfs/cardscript-extract-defaults/commit/7e0a3c0d902daf7ea2202d2bbc0adb7340419d7e))
+
 # [1.19.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.18.2...v1.19.0) (2020-07-16)
 
 
