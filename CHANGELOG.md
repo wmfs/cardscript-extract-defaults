@@ -1,3 +1,28 @@
+# [1.21.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.20.0...v1.21.0) (2020-12-07)
+
+
+### ✨ Features
+
+* default boolean flag to false that card data has changed [ch3384] ([18043d9](https://github.com/wmfs/cardscript-extract-defaults/commit/18043d9355f5bc5752883bec0e63dc192d44b10a))
+
+
+### 🐛 Bug Fixes
+
+* update variable name ([a9111b2](https://github.com/wmfs/cardscript-extract-defaults/commit/a9111b26fdbc32497756ff66e012664202383d4e))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([43188f5](https://github.com/wmfs/cardscript-extract-defaults/commit/43188f5abc648e6de542955539994cc2281eae43))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([5dfde6d](https://github.com/wmfs/cardscript-extract-defaults/commit/5dfde6db838893da32c2d4a0ed9a949b37b93531))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([8fd0ead](https://github.com/wmfs/cardscript-extract-defaults/commit/8fd0ead285047b3afe87f9c0dc459d1f1f7b055d))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([ae12adb](https://github.com/wmfs/cardscript-extract-defaults/commit/ae12adb708a69e4943eae73685bcd48886af9333))
+
+
+### 🚨 Tests
+
+* update tests ([758026e](https://github.com/wmfs/cardscript-extract-defaults/commit/758026e66fb25757143e54703a6a3c27d041b375))
+
 # [1.20.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.19.0...v1.20.0) (2020-11-12)
 
 
