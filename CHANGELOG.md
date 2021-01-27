@@ -1,3 +1,16 @@
+# [1.23.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.22.0...v1.23.0) (2021-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** bump marked from 1.2.7 to 1.2.8 ([a5a34e4](https://github.com/wmfs/cardscript-extract-defaults/commit/a5a34e454706297b94d5b057cff7fb17a22ae61f))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([5dfe03d](https://github.com/wmfs/cardscript-extract-defaults/commit/5dfe03d39f24ac457a9471ac98bb52195b41c405))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([a58bddb](https://github.com/wmfs/cardscript-extract-defaults/commit/a58bddb067f82feec28b7e15e861bcab3c04d834))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([9cff7f0](https://github.com/wmfs/cardscript-extract-defaults/commit/9cff7f0d7fa0ea368713abb354835a68c12aef65))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([7e961c2](https://github.com/wmfs/cardscript-extract-defaults/commit/7e961c27a8c90253b586cbd97b2e81db981a4be5))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([51010f4](https://github.com/wmfs/cardscript-extract-defaults/commit/51010f40cf797e89ce503e194a4af8bcd5c0eee4))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([498a907](https://github.com/wmfs/cardscript-extract-defaults/commit/498a907c1ceba1b56c7e1b63f455e3235dd3eada))
+
 # [1.22.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.21.0...v1.22.0) (2021-01-06)
 
 
