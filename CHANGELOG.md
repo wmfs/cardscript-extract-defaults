@@ -1,3 +1,18 @@
+# [1.27.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.26.0...v1.27.0) (2021-04-12)
+
+
+### ✨ Features
+
+* update for multiselect on apilookup [ch4838] ([8c0be94](https://github.com/wmfs/cardscript-extract-defaults/commit/8c0be94f4c7298fad8f716d8ac55a53d26424bb7))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump chai from 4.3.3 to 4.3.4 ([ac6ef3f](https://github.com/wmfs/cardscript-extract-defaults/commit/ac6ef3f5529e9d65efdfcfc55720a16737581bc0))
+* **deps-dev:** bump mocha from 8.3.0 to 8.3.1 ([5b6ea69](https://github.com/wmfs/cardscript-extract-defaults/commit/5b6ea69ec25b3b641c836356edfab38a02586772))
+* **deps-dev:** bump mocha from 8.3.1 to 8.3.2 ([e572527](https://github.com/wmfs/cardscript-extract-defaults/commit/e572527c03449b80361ca2da900927f5e3cb4004))
+* **deps-dev:** bump semantic-release from 17.4.1 to 17.4.2 ([2a93dab](https://github.com/wmfs/cardscript-extract-defaults/commit/2a93dab288c4112846a570cfeb753b7503216212))
+
 # [1.26.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.25.0...v1.26.0) (2021-03-05)
 
 
