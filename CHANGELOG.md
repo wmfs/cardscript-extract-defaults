@@ -1,3 +1,15 @@
+# [1.28.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.27.0...v1.28.0) (2021-04-26)
+
+
+### ✨ Features
+
+* add default val for list select all ([8cb4c6a](https://github.com/wmfs/cardscript-extract-defaults/commit/8cb4c6a93a46ce7135ce1047c7661a5af513f10d))
+
+
+### 🚨 Tests
+
+* add flag to expected ([f08604b](https://github.com/wmfs/cardscript-extract-defaults/commit/f08604bb201829676bc32e867b1b2ed5b3eb3d5f))
+
 # [1.27.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.26.0...v1.27.0) (2021-04-12)
 
 
