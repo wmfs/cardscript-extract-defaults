@@ -1,3 +1,15 @@
+## [1.28.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.28.0...v1.28.1) (2021-04-26)
+
+
+### 🐛 Bug Fixes
+
+* no longer need default value for select all ([bb2b40d](https://github.com/wmfs/cardscript-extract-defaults/commit/bb2b40d844779dc0dafe6b7b1e0e3d0b75576a1b))
+
+
+### 🚨 Tests
+
+* remove select all from expects ([92756bf](https://github.com/wmfs/cardscript-extract-defaults/commit/92756bfb690785a2607a3ce604042dd571f07eb5))
+
 # [1.28.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.27.0...v1.28.0) (2021-04-26)
 
 
