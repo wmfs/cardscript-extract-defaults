@@ -73,6 +73,7 @@ describe('Run some Cardscript default-extracting tests', function () {
         inputSignatureOpenModal: false,
         inputTelephoneNumber: null,
         listMultiSelection: [],
+        listMultiSelectionSelectAll: false,
         listSingleSelection: {},
         markdownTextBlockCompiledMarkdown: '<h2 id="markdown">Markdown</h2>\n<blockquote>\n<p>This is some markdown text</p>\n</blockquote>\n<h2 id="heading">Heading</h2>\n<p>Some text here...</p>\n<ul>\n<li>one</li>\n<li>two</li>\n<li>three</li>\n</ul>\n',
         name: null,
