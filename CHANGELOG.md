@@ -1,3 +1,15 @@
+# [1.29.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.28.1...v1.29.0) (2021-04-29)
+
+
+### ✨ Features
+
+* support for selectable iterative adaptive cards ([48b3279](https://github.com/wmfs/cardscript-extract-defaults/commit/48b3279939f851caff5257549071816c850fea60))
+
+
+### 🐛 Bug Fixes
+
+* standard --fix ([d4ad042](https://github.com/wmfs/cardscript-extract-defaults/commit/d4ad0425eff2e18b021e781e29ee4629ee0ed161))
+
 ## [1.28.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.28.0...v1.28.1) (2021-04-26)
 
 
