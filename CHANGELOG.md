@@ -1,3 +1,10 @@
+# [1.30.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.29.0...v1.30.0) (2021-04-30)
+
+
+### ✨ Features
+
+* add MarkupTable selection type support ([23088f8](https://github.com/wmfs/cardscript-extract-defaults/commit/23088f8b7dceeb6bab581fea1a140ee124e10a6a))
+
 # [1.29.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.28.1...v1.29.0) (2021-04-29)
 
 
