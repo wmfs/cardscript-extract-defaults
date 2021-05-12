@@ -1,3 +1,16 @@
+## [1.30.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.30.0...v1.30.1) (2021-05-12)
+
+
+### 🐛 Bug Fixes
+
+* handle if default value is already an array ([f40f34d](https://github.com/wmfs/cardscript-extract-defaults/commit/f40f34db6545c72a8022f24fa8ddf3a046d11686))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([f39176f](https://github.com/wmfs/cardscript-extract-defaults/commit/f39176f8c5d0e15b2a5f4d8ba4d6a6233152c32e))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([ebdea0c](https://github.com/wmfs/cardscript-extract-defaults/commit/ebdea0c7c2cbace2c3149177fcb8df04c04fcf06))
+
 # [1.30.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.29.0...v1.30.0) (2021-04-30)
 
 
