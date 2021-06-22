@@ -1,3 +1,17 @@
+# [1.32.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.31.0...v1.32.0) (2021-06-22)
+
+
+### ✨ Features
+
+* apply default values for markers in Input.Map ([f559be2](https://github.com/wmfs/cardscript-extract-defaults/commit/f559be2e99bda130d8d4e1bdc06a95cdc7100e43))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([b518a0d](https://github.com/wmfs/cardscript-extract-defaults/commit/b518a0dab4700ad5571bde4862b1511a90eec6ed))
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([69e688d](https://github.com/wmfs/cardscript-extract-defaults/commit/69e688d64203e10fad84aa46b9cd65adbfaf71f0))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([07adbc4](https://github.com/wmfs/cardscript-extract-defaults/commit/07adbc4e59c4fe64759e8fe0871938bbef1c26fc))
+
 # [1.31.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.30.1...v1.31.0) (2021-05-19)
 
 
