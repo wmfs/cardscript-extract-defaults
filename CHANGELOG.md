@@ -1,3 +1,10 @@
+# [1.33.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.32.0...v1.33.0) (2021-06-22)
+
+
+### ✨ Features
+
+* use element id for unique map prompts ([ac9e187](https://github.com/wmfs/cardscript-extract-defaults/commit/ac9e1878b92bf245702dfda23f41185e9846c1d1))
+
 # [1.32.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.31.0...v1.32.0) (2021-06-22)
 
 
