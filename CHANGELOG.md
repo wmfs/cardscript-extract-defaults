@@ -1,3 +1,34 @@
+# [1.34.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.33.0...v1.34.0) (2021-10-15)
+
+
+### ✨ Features
+
+* default data for Input.Date as GDS theme ([a100bd9](https://github.com/wmfs/cardscript-extract-defaults/commit/a100bd9f29fd46f00c4c944f4f00a1059429962a))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([81c2941](https://github.com/wmfs/cardscript-extract-defaults/commit/81c2941079d41f61fea711dceff92ec8ddc1b567))
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([a6af892](https://github.com/wmfs/cardscript-extract-defaults/commit/a6af892ea6b51a05f28580d198a479470cde484b))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([5dba065](https://github.com/wmfs/cardscript-extract-defaults/commit/5dba065fe66129be9b7080f3139b3586754a796a))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([4435baa](https://github.com/wmfs/cardscript-extract-defaults/commit/4435baa8bde9a39a6f442ff505c3193cf9732615))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([b1c401b](https://github.com/wmfs/cardscript-extract-defaults/commit/b1c401bda0b2cec7dc9fec5ee38cedef59e1089e))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([393dc6b](https://github.com/wmfs/cardscript-extract-defaults/commit/393dc6bb5f7b063116342fe810599174c3c6221a))
+* **deps-dev:** update dependency mocha to v9.1.0 ([1bddfbc](https://github.com/wmfs/cardscript-extract-defaults/commit/1bddfbc148f2d8d91375d3bb619884a02edde84f))
+* **deps-dev:** update dependency mocha to v9.1.1 ([1856be2](https://github.com/wmfs/cardscript-extract-defaults/commit/1856be228107d8d9410cb37cd5ceb3c4fa5e4d10))
+* **deps-dev:** update dependency mocha to v9.1.2 ([696d946](https://github.com/wmfs/cardscript-extract-defaults/commit/696d946fa123fe7e4c020d3d232f48fcce9e2a0a))
+* **deps-dev:** update dependency mocha to v9.1.3 ([4984796](https://github.com/wmfs/cardscript-extract-defaults/commit/49847964fb6f60d7d152ab2dc23f2a1baca3c7ed))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([0495b3f](https://github.com/wmfs/cardscript-extract-defaults/commit/0495b3fe2151d77bf05147d4faf7989577feb750))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([12f7a88](https://github.com/wmfs/cardscript-extract-defaults/commit/12f7a88e51158af5a5a274b9cf9fb0623e05a48d))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([528e163](https://github.com/wmfs/cardscript-extract-defaults/commit/528e163033ddb3ac64940aeb9cc8176c4caa21f7))
+* **deps-dev:** update dependency semantic-release to v18 ([6e15870](https://github.com/wmfs/cardscript-extract-defaults/commit/6e1587052b74b65630e0701c55280e9e72efd1d1))
+* **deps-dev:** update dependency standard to v16.0.4 ([d18732f](https://github.com/wmfs/cardscript-extract-defaults/commit/d18732f07497480c42de9dd5a8e7aba804a1cffc))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([52b2640](https://github.com/wmfs/cardscript-extract-defaults/commit/52b2640b4db44fbcda1e9ba81e553e9ae39e3a50))
+
 # [1.33.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.32.0...v1.33.0) (2021-06-22)
 
 
