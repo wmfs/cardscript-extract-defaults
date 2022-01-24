@@ -1,3 +1,19 @@
+# [1.35.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.34.0...v1.35.0) (2022-01-24)
+
+
+### ✨ Features
+
+* create new stepper component ([20b2831](https://github.com/wmfs/cardscript-extract-defaults/commit/20b2831d2d8a1f629f894f4d72e71dc22ff6a7f5))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v9.1.4 ([5f26766](https://github.com/wmfs/cardscript-extract-defaults/commit/5f26766ee07345ba01640e3734992532f46fd53f))
+* **deps-dev:** update dependency mocha to v9.2.0 ([6d56895](https://github.com/wmfs/cardscript-extract-defaults/commit/6d5689583d9a5985ea56f3b418fc0ec45051ad5a))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([0f5d3b3](https://github.com/wmfs/cardscript-extract-defaults/commit/0f5d3b36799ddbbd2f2197fd5ba148ef865d5669))
+* **deps-dev:** update dependency semantic-release to v19 ([cf91130](https://github.com/wmfs/cardscript-extract-defaults/commit/cf911304cfaeea7271fd0a838abc1f6c5d86cf6f))
+* **deps-dev:** update semantic-release monorepo ([9a41bd4](https://github.com/wmfs/cardscript-extract-defaults/commit/9a41bd4debb85fc21a877a3f511a968554c8af1b))
+
 # [1.34.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.33.0...v1.34.0) (2021-10-15)
 
 
