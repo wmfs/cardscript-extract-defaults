@@ -57,6 +57,10 @@ describe('Run some Cardscript default-extracting tests', function () {
         cardListNonEditable: [],
         toggle: false,
         tabSetTabSet: 'tab-0',
+        tabSetTabSetShowWhens: [
+          undefined,
+          undefined
+        ],
         choice: 'CHOICE_1',
         choiceMulti: ['CHOICE_1', 'CHOICE_2'],
         choiceWithTitle: 'CHOICE_1',
