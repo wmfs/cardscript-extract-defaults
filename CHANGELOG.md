@@ -1,3 +1,25 @@
+## [1.35.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.35.0...v1.35.1) (2022-06-16)
+
+
+### 🐛 Bug Fixes
+
+* issue with navigating to tabs hidden behind show when conditions ([23bb3b0](https://github.com/wmfs/cardscript-extract-defaults/commit/23bb3b06497874092b3f4dd1cd30a50660456533))
+* issue with q-editor default values ([909afd5](https://github.com/wmfs/cardscript-extract-defaults/commit/909afd595456b3095aac2a22187edde5e5ca4ced))
+* map fly to to use props not store ([52a9dad](https://github.com/wmfs/cardscript-extract-defaults/commit/52a9dadd6e39e7f4428d9ff6d73201a11a6331d1))
+* only apply map fly to value if id exists ([ebde201](https://github.com/wmfs/cardscript-extract-defaults/commit/ebde201d732a82f3122cc7cf33f9ff73535d4a8c))
+* Unexpected lexical declaration in case block ([5333d8d](https://github.com/wmfs/cardscript-extract-defaults/commit/5333d8d080d344455f701ad2fecaf107472bdb2e))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.5 ([6ab8466](https://github.com/wmfs/cardscript-extract-defaults/commit/6ab8466370ba136ff70dd307be5799a724f3e65b))
+* **deps-dev:** update dependency chai to v4.3.6 ([79f042e](https://github.com/wmfs/cardscript-extract-defaults/commit/79f042e4d437f16ac35c207bb0b652bf63438ae5))
+* **deps-dev:** update dependency mocha to v10 ([0b88543](https://github.com/wmfs/cardscript-extract-defaults/commit/0b885438dec45fe3808887475b8c8d5901260887))
+* **deps-dev:** update dependency mocha to v9.2.1 ([fd0983d](https://github.com/wmfs/cardscript-extract-defaults/commit/fd0983d0240eae7eb6f0a07b772a1e7827eb8357))
+* **deps-dev:** update dependency mocha to v9.2.2 ([ae86251](https://github.com/wmfs/cardscript-extract-defaults/commit/ae86251ed66b1d2cb6f7c84ca01151053ce89f76))
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([bbab598](https://github.com/wmfs/cardscript-extract-defaults/commit/bbab598fac65d284941f9e30c8cca6ac3156362e))
+* **deps-dev:** update dependency standard to v17 ([702bf72](https://github.com/wmfs/cardscript-extract-defaults/commit/702bf7208a5072bc3e6eddd402092d84f008071b))
+
 # [1.35.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.34.0...v1.35.0) (2022-01-24)
 
 
