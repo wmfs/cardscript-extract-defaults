@@ -30,6 +30,7 @@ describe('Run some Cardscript default-extracting tests', function () {
           $GEOLOCATION: null,
           base: 'TOMATO',
           deliveryOrCollection: 'COLLECT',
+          dietaryReq: [],
           dietaryReqOther: null,
           name: null,
           hot: false,
