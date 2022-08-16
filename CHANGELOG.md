@@ -1,3 +1,16 @@
+## [1.35.2](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.35.1...v1.35.2) (2022-08-16)
+
+
+### 🐛 Bug Fixes
+
+* default value for Input.DateTime ([5d39c8d](https://github.com/wmfs/cardscript-extract-defaults/commit/5d39c8de6d06b36fd83d06eed6c1c2f0d1218b9a))
+
+
+### 🚨 Tests
+
+* update test expected ([a977810](https://github.com/wmfs/cardscript-extract-defaults/commit/a9778104868263583ee1496a4235629aa7c0f206))
+* update with input.datetime ([b53ee03](https://github.com/wmfs/cardscript-extract-defaults/commit/b53ee03b49a33bf1ed34d74c1836f50432352783))
+
 ## [1.35.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.35.0...v1.35.1) (2022-06-16)
 
 
