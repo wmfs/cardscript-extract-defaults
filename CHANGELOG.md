@@ -1,3 +1,17 @@
+# [1.36.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.35.2...v1.36.0) (2022-10-20)
+
+
+### ✨ Features
+
+* allow selection type for CardList ([9aa867f](https://github.com/wmfs/cardscript-extract-defaults/commit/9aa867fbcf070f98baae6e8421a96ec7b5176404))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency mocha to v10.1.0 ([aa7c148](https://github.com/wmfs/cardscript-extract-defaults/commit/aa7c1480d0771850950cf8a7738c447129d154d6))
+* **deps-dev:** update dependency semantic-release to v19.0.4 ([4679829](https://github.com/wmfs/cardscript-extract-defaults/commit/4679829b6db6873a912e07e4114e76022ffb2adc))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([beffdaa](https://github.com/wmfs/cardscript-extract-defaults/commit/beffdaa92ef219780534400b0889517904cfbf21))
+
 ## [1.35.2](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.35.1...v1.35.2) (2022-08-16)
 
 
