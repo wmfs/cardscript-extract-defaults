@@ -1,3 +1,14 @@
+# [1.37.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.36.0...v1.37.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([32db97d](https://github.com/wmfs/cardscript-extract-defaults/commit/32db97d5c1bda4ae0b7b669d0e0353217dfb4c92))
+* **deps-dev:** update dependency chai to v4.3.7 ([df8d5ae](https://github.com/wmfs/cardscript-extract-defaults/commit/df8d5ae7130090fbdad749cd4a543339fe54ac7a))
+* **deps-dev:** update dependency mocha to v10.2.0 ([9880c95](https://github.com/wmfs/cardscript-extract-defaults/commit/9880c959d4d120dcff4d0b5447b52a136e8e6d4f))
+* **deps-dev:** update dependency semantic-release to v20 ([196d205](https://github.com/wmfs/cardscript-extract-defaults/commit/196d205ce3cba8f65bc1aab5ccb799f83cf41cc0))
+* **deps:** update dependency dottie to v2.0.3 ([86a75f0](https://github.com/wmfs/cardscript-extract-defaults/commit/86a75f08fa43d59cf3f7abb1f626418d923ad172))
+
 # [1.36.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.35.2...v1.36.0) (2022-10-20)
 
 
