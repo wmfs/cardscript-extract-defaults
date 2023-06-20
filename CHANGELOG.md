@@ -1,3 +1,10 @@
+# [1.39.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.38.0...v1.39.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency dottie to v2.0.6 ([3a21ab0](https://github.com/wmfs/cardscript-extract-defaults/commit/3a21ab0766ce4adcec8c641eb815d97932f51e94))
+
 # [1.38.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.37.0...v1.38.0) (2023-06-20)
 
 
