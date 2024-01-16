@@ -1,3 +1,11 @@
+# [1.40.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.39.0...v1.40.0) (2024-01-16)
+
+
+### Features
+
+* **(pin 262) crr dd:** QA Process embeded within FS Audit ([#259](https://github.com/wmfs/cardscript-extract-defaults/issues/259)) [sc-20986] ([7c96d5f](https://github.com/wmfs/cardscript-extract-defaults/commit/7c96d5f9a944f185fde9721f5b845a060389cbfe))
+* fix release notes generator ([5c6cc53](https://github.com/wmfs/cardscript-extract-defaults/commit/5c6cc53a7961ea9022d13ca12bb5ef21c25ce444))
+
 # [1.39.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.38.0...v1.39.0) (2023-06-20)
 
 
