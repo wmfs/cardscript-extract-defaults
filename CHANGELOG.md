@@ -1,3 +1,10 @@
+# [1.41.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.40.0...v1.41.0) (2024-05-02)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-22966] Input.ChoiceSet to store selected choices when using dynamic choices ([#279](https://github.com/wmfs/cardscript-extract-defaults/issues/279)) ([14162fd](https://github.com/wmfs/cardscript-extract-defaults/commit/14162fd131f5ff14e139024f787fec81488c7475))
+
 # [1.40.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.39.0...v1.40.0) (2024-01-16)
 
 
