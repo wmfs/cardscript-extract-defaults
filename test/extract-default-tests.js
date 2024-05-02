@@ -22,7 +22,6 @@ describe('Run some Cardscript default-extracting tests', function () {
 
   it('should extract some defaults from complex example', async function () {
     const result = await extractDefaults(complex)
-    console.log(JSON.stringify(result))
     expect(result).to.eql(
       {
         rootView: {
@@ -50,7 +49,6 @@ describe('Run some Cardscript default-extracting tests', function () {
 
   it('should extract some defaults from kitchen sink example', async function () {
     const result = await extractDefaults(kitchenSink)
-    console.log(JSON.stringify(result))
     expect(result).to.eql(
       {
         rootView: {
