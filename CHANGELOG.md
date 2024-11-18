@@ -1,3 +1,5 @@
+# [1.48.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.47.0...v1.48.0) (2024-11-18)
+
 # [1.47.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.46.0...v1.47.0) (2024-11-12)
 
 # [1.46.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.45.0...v1.46.0) (2024-11-12)
