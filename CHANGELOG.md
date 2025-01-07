@@ -1,3 +1,10 @@
+## [1.53.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.52.0...v1.53.0) (2025-01-07)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** [sc-29160] Resolve issue with semantic-release changelog notes ([#314](https://github.com/wmfs/cardscript-extract-defaults/issues/314)) ([4dbe570](https://github.com/wmfs/cardscript-extract-defaults/commit/4dbe570428fe6e85c24acf431f63b9d3fc7d66c8))
+* **deps:** update dependency marked to v15.0.6 ([#315](https://github.com/wmfs/cardscript-extract-defaults/issues/315)) ([7708fd1](https://github.com/wmfs/cardscript-extract-defaults/commit/7708fd14a4e35e83931aa0adedc5174caf176880))
+
 # [1.52.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.51.0...v1.52.0) (2025-01-03)
 
 # [1.51.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.50.0...v1.51.0) (2024-12-18)
