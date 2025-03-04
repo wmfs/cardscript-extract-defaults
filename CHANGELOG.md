@@ -1,3 +1,13 @@
+## [1.55.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.54.0...v1.55.0) (2025-03-04)
+
+### New Feature(s) :rocket:
+
+* **(pin 262) crr dd:** [sc-29323] Add 'name' input to signature [#320](https://github.com/wmfs/cardscript-extract-defaults/issues/320) ([594d642](https://github.com/wmfs/cardscript-extract-defaults/commit/594d642cb080ab4629b792eeee37bf86a6e0a908))
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency semantic-release to v24.2.3 ([#319](https://github.com/wmfs/cardscript-extract-defaults/issues/319)) ([8d018ef](https://github.com/wmfs/cardscript-extract-defaults/commit/8d018ef9252346a28028e1a3125bfaf496214d3d))
+
 ## [1.54.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.53.0...v1.54.0) (2025-02-10)
 
 ### Build system dependencies :hammer:
