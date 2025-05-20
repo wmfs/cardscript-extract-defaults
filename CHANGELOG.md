@@ -1,3 +1,14 @@
+## [1.59.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.58.0...v1.59.0) (2025-05-20)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#328](https://github.com/wmfs/cardscript-extract-defaults/issues/328)) ([c5f3d58](https://github.com/wmfs/cardscript-extract-defaults/commit/c5f3d58037da9c730ad1017e3f2d884d90d33860))
+* **deps-dev:** update dependency mocha to v11.2.2 ([#324](https://github.com/wmfs/cardscript-extract-defaults/issues/324)) ([8386d34](https://github.com/wmfs/cardscript-extract-defaults/commit/8386d3423e1370646fe0f3fa40bd524754169471))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#325](https://github.com/wmfs/cardscript-extract-defaults/issues/325)) ([181862a](https://github.com/wmfs/cardscript-extract-defaults/commit/181862a251f99a2108834e163c72d32c75f0d9dd))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#327](https://github.com/wmfs/cardscript-extract-defaults/issues/327)) ([510e54f](https://github.com/wmfs/cardscript-extract-defaults/commit/510e54f0330b629f556bd074753bb221565bc879))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#326](https://github.com/wmfs/cardscript-extract-defaults/issues/326)) ([89f47b9](https://github.com/wmfs/cardscript-extract-defaults/commit/89f47b9105e5a07d23d0d6095c76ac0c64c5d6aa))
+* **deps:** update dependency marked to v15.0.12 ([#329](https://github.com/wmfs/cardscript-extract-defaults/issues/329)) ([31f18ca](https://github.com/wmfs/cardscript-extract-defaults/commit/31f18cae53c136c48bc1cc49cbdfe88f1d570536))
+
 ## [1.58.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.57.0...v1.58.0) (2025-04-25)
 
 ### Build system dependencies :hammer:
