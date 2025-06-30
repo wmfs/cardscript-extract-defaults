@@ -1,3 +1,10 @@
+## [1.61.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.60.0...v1.61.0) (2025-06-30)
+
+### Build system dependencies :hammer:
+
+* **deps:** revert dependency marked to v15.0.12 ([6bf729c](https://github.com/wmfs/cardscript-extract-defaults/commit/6bf729c0d0f64a65a908e0fb6b2f47034c7f33d6))
+* **deps:** update dependency marked to v16 ([#335](https://github.com/wmfs/cardscript-extract-defaults/issues/335)) ([9958972](https://github.com/wmfs/cardscript-extract-defaults/commit/9958972b8effd7c7a72fc0c359377a0c31a66074))
+
 ## [1.60.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.59.0...v1.60.0) (2025-06-30)
 
 ### Build system dependencies :hammer:
