@@ -1,3 +1,11 @@
+## [1.62.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.61.0...v1.62.0) (2025-07-23)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.1.0 ([#339](https://github.com/wmfs/cardscript-extract-defaults/issues/339)) ([e604554](https://github.com/wmfs/cardscript-extract-defaults/commit/e604554d1b94386756432d8f7c4af4945bae8ebf))
+* **deps-dev:** update dependency semantic-release to v24.2.7 ([#340](https://github.com/wmfs/cardscript-extract-defaults/issues/340)) ([0438a7a](https://github.com/wmfs/cardscript-extract-defaults/commit/0438a7aa0c03c20ea2a85b0d8d0f6eef16121abc))
+* **deps:** update dependency marked to v16 ([#338](https://github.com/wmfs/cardscript-extract-defaults/issues/338)) ([511b97c](https://github.com/wmfs/cardscript-extract-defaults/commit/511b97c9a833065fab09772f96b0dfcba9e6318e))
+
 ## [1.61.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.60.0...v1.61.0) (2025-06-30)
 
 ### Build system dependencies :hammer:
