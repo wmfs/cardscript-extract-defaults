@@ -1,3 +1,22 @@
+## [1.65.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.64.1...v1.65.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([8167ef9](https://github.com/wmfs/cardscript-extract-defaults/commit/8167ef93e9306e816045e499bed88b43cb2bc5b1))
+* **deps-dev:** update dependency @wmfs/cardscript-examples to v1.23.1 ([#381](https://github.com/wmfs/cardscript-extract-defaults/issues/381)) ([210b0a2](https://github.com/wmfs/cardscript-extract-defaults/commit/210b0a2a2cfa659e734b0c1e28fea6e3ee463033))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#382](https://github.com/wmfs/cardscript-extract-defaults/issues/382)) ([19f53af](https://github.com/wmfs/cardscript-extract-defaults/commit/19f53affb7e766378e796a7486f27eccc53931bf))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#387](https://github.com/wmfs/cardscript-extract-defaults/issues/387)) ([33ba823](https://github.com/wmfs/cardscript-extract-defaults/commit/33ba8232da8a4c98bd54f6ecc5d67bc7e5366315))
+* **deps-dev:** update dependency mocha to v12 ([#383](https://github.com/wmfs/cardscript-extract-defaults/issues/383)) ([73a43ed](https://github.com/wmfs/cardscript-extract-defaults/commit/73a43edf468de642c3ff64529dad0da2f6990f46))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#384](https://github.com/wmfs/cardscript-extract-defaults/issues/384)) ([11876f9](https://github.com/wmfs/cardscript-extract-defaults/commit/11876f9f99e01e310e16b8a12908ca10d5d730a6))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#385](https://github.com/wmfs/cardscript-extract-defaults/issues/385)) ([4e7e621](https://github.com/wmfs/cardscript-extract-defaults/commit/4e7e621471471bb4b13de512e50071f15eb0b3be))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#386](https://github.com/wmfs/cardscript-extract-defaults/issues/386)) ([a8c79c4](https://github.com/wmfs/cardscript-extract-defaults/commit/a8c79c46dce00da0a39d430aadbc2e7384d6c5f6))
+* **deps:** update dependency dottie to v2.0.7 [security] ([#361](https://github.com/wmfs/cardscript-extract-defaults/issues/361)) ([5004d71](https://github.com/wmfs/cardscript-extract-defaults/commit/5004d71ffce3f1db9592d48c1851074667e8d5f1))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#388](https://github.com/wmfs/cardscript-extract-defaults/issues/388)) ([68b17f6](https://github.com/wmfs/cardscript-extract-defaults/commit/68b17f63eba3c1b87ad195f06c44ddc8a9f420ed))
+* use shared renovate preset [sc-34117] ([#389](https://github.com/wmfs/cardscript-extract-defaults/issues/389)) ([af046b5](https://github.com/wmfs/cardscript-extract-defaults/commit/af046b579412283e27be4881274067cf0faa6076))
+
 ## [1.64.1](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.64.0...v1.64.1) (2026-08-14)
 
 ## [1.64.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.63.0...v1.64.0) (2025-12-02)
