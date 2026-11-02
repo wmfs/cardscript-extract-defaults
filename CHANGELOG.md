@@ -1,3 +1,9 @@
+## [1.67.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.66.0...v1.67.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency marked-gfm-heading-id to v4.1.4 ([#365](https://github.com/wmfs/cardscript-extract-defaults/issues/365)) ([e1a4235](https://github.com/wmfs/cardscript-extract-defaults/commit/e1a42350b2c3584a40ab14e7f96113691e270873))
+
 ## [1.66.0](https://github.com/wmfs/cardscript-extract-defaults/compare/v1.65.0...v1.66.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
